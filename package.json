@@ -1,0 +1,20 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Open Class Room fullstack Tutorial",
+  "homepage": "https://github.com/esteric74/backend#readme",
+  "bugs": {
+    "url": "https://github.com/esteric74/backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esteric74/backend.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
